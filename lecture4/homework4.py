@@ -81,4 +81,10 @@ class Test_Sauce:
 
 
 testClass = Test_Sauce()
+testClass.test_invalid_login()
+testClass.test_invalid_password()
+testClass.test_locked()
 testClass.test_invalid_icon()
+testClass.test_inventory_page()
+testClass.test_inventory()
+
