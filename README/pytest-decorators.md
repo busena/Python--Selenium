@@ -1,8 +1,8 @@
 ## PyTestdeki decoratorleri araştırarak oluşturduğunuz notları bir "ReadMe" dosyası olarak githubda paylaşınız.
 
-PyTest bir yazılım test çerçevesidir ve çeşitli yazılım testleri için kullanılabilir. Kodlarımızı istediğimiz şekilde modifiye edebilmemizi sağlar. 
+>PyTest bir yazılım test çerçevesidir ve çeşitli yazılım testleri için kullanılabilir. Kodlarımızı istediğimiz şekilde modifiye edebilmemizi sağlar. 
 
-> -> **pytest.mark.skip:** > Bir test fonksiyonunu koşulsuz olarak atlamamızı sağlar.
+-> **pytest.mark.skip:** Bir test fonksiyonunu koşulsuz olarak atlamamızı sağlar.
 
 -> **pytest.mark.skipif:** Koşul 'True' ise test fonksiyonunu atlamamızı sağlar.
 
